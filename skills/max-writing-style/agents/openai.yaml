@@ -1,0 +1,4 @@
+interface:
+  display_name: "Max Writing Style"
+  short_description: "Use Max style for concise, direct Chinese expression."
+  default_prompt: "把这段内容改成 Max 风格，保留重点，不要废话。"
